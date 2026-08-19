@@ -1,9 +1,9 @@
 ---
-name: cw-content-analysis
+name: cw-script-redpen
 description: "Analyze high- and low-performing content benchmarks, deliver evidence-backed red-pen sentence-level script diagnosis, support self-revision or explainable AI rewrite, blind-test a final content piece, and calibrate against post-publish data. Use when a content creator asks to 拆对标、逐句批改、分析高赞低赞、诊断低数据稿、写稿、盲测、复盘或校准内容。"
 ---
 
-# CW 内容分析工作流
+# CW｜红笔改稿
 
 用本 Skill 为内容创作者完成一条内容从对标到复盘的四阶段工作流。所有报告标题均以 `CW｜` 开头。
 
