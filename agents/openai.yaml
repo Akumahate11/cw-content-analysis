@@ -1,4 +1,4 @@
 interface:
   display_name: "CW 内容分析工作流"
-  short_description: "面向内容创作者的对标拆解、写稿诊断、盲测和复盘工作流"
-  default_prompt: "使用 $cw-content-analysis 帮我从拆对标开始分析这条内容。"
+  short_description: "逐句批改稿、对标诊断、盲测与复盘工作流"
+  default_prompt: "使用 $cw-content-analysis 逐句批改我这篇数据不好的稿子。"
