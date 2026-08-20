@@ -70,7 +70,7 @@ Skill 会先做七维前期诊断，再建立好样本标本；最后才逐句�
 在终端执行：
 
 ```bash
-git clone https://github.com/Akumahate11/cw-script-redpen.git ~/.codex/skills/cw-script-redpen
+git clone https://github.com/caiwan-lab/cw-script-redpen.git ~/.codex/skills/cw-script-redpen
 ```
 
 重新开启一个 Codex 对话后，可以这样开始：
